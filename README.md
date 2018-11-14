@@ -11,9 +11,9 @@
 * app.js in the js directory
 * HTML code in index.html
 * configuration files for linting (validating code syntax)
-**HTML linting
-**CSS linting
-**JavaScript linting
-*configure my code editor
+    ** HTML linting
+    ** CSS linting
+    ** JavaScript linting
+* configure my code editor
 
 
